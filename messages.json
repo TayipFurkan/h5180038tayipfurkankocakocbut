@@ -1,0 +1,28 @@
+[
+      {
+         "userFullname":"Albert Einstein",
+         "userPhoto":"einstein.jpg",
+         "messageType":"text",
+         "time":"00:18 AM",
+         "text":"Selam Bill Nasılsın?",
+         "muted":"no",
+         "status":"viewed"
+      },
+      {
+         "userFullname":"Cem Karaca",
+         "userPhoto":"cemkaraca.jpg",
+         "messageType":"sound",
+         "time":"05:52 PM",
+         "sound":"merhaba.mp3",
+         "muted":"no"
+      },
+      {
+         "userFullname":"Elon Musk",
+         "userPhoto":"elonmusk.jpg",
+         "messageType":"text",
+         "time":"03:37 PM",
+         "text":"1 saat önce aktifti.",
+         "muted":"yes",
+         "status":"sended"
+      }
+   ]
